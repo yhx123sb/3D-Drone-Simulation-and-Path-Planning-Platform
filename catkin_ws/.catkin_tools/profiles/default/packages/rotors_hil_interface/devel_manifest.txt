@@ -1,0 +1,4 @@
+rotors_simulator/rotors_hil_interface
+/home/ubuntu/catkin_ws/devel/.private/rotors_hil_interface/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake /home/ubuntu/catkin_ws/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake
+/home/ubuntu/catkin_ws/devel/.private/rotors_hil_interface/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake /home/ubuntu/catkin_ws/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake
+/home/ubuntu/catkin_ws/devel/.private/rotors_hil_interface/lib/pkgconfig/rotors_hil_interface.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/rotors_hil_interface.pc

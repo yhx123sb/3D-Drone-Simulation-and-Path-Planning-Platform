@@ -1,0 +1,4 @@
+rotors_simulator/rqt_rotors
+/home/ubuntu/catkin_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake /home/ubuntu/catkin_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+/home/ubuntu/catkin_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake /home/ubuntu/catkin_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+/home/ubuntu/catkin_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/rqt_rotors.pc
